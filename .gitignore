@@ -8,6 +8,9 @@ docs/apex/Miscellaneous/
 temp/
 test-coverage/
 
+# MacOS system files
+.DS_Store
+
 # NPM
 node_modules/
 yarn.lock
